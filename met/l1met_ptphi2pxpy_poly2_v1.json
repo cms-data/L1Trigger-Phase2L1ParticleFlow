@@ -1,6 +1,7 @@
 {
   "version": 1,
   "description": "L1METEmu 2nd-order polynomial coefficients for cos/sin; 16 phi bins over [-pi, pi]; phi_edges in radians.",
+  "phi_bins": 16,
   "phi_edges": [
     -1.0,
     -0.875,
